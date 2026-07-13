@@ -7,7 +7,7 @@ db_name=dba
 duration_type=month
 duration=3
 user=admin
-passwd='asdwe#IBDds34asdf34'
+passwd='abc'
 
 table1=0
 table2=0
